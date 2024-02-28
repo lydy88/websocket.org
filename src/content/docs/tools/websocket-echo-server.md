@@ -9,7 +9,7 @@ We run a free very simple endpoint server with support for websockets and server
 
 The server is designed for testing HTTP proxies and clients. It echoes information about HTTP request headers and bodies back to the client.
 
-The endpoint is https://echo.websocket.org/
+The endpoint is wss://xxx/demo_/
 
 ## Behavior
 
